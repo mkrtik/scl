@@ -1,5 +1,0 @@
-L = list("Hello")
-t = ('h', 'i')
-T1  = list(t)
-print(L)
-print(T1)
